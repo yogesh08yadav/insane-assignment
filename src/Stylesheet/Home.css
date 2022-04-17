@@ -1,0 +1,14 @@
+input{
+    width: 50%;
+     margin: auto;
+      border: none;
+     outline: none;
+    border-radius: 35px;
+     padding: 7px 
+}
+
+@media (max-width:500px){
+  input{
+      width: 80%;
+  }
+}
